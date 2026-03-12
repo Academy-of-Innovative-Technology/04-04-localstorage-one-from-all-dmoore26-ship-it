@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+
+}
+
+body {
+    background: rgb(74, 71, 71);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white; 
+}
+
+
+.card-body {
+    height: 700px;
+    background: #495461;
+    font: bold;
+    font-size: 20px;
+}
+
+.card img {
+    height: 700px;
+    width: 700px;
+   
+}
